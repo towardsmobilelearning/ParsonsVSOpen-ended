@@ -1,0 +1,13 @@
+total = 46 
+finally selected = 34
+removed = 12
+less than 20 mins for open ended = 4
+comments on code = 7
+couldn't finish due to motion sickness = 1
+Group A = 19
+Group B = 15
+
+User Preference:
+Drag and Drop = 24
+Traditional Programming = 7
+Both = 3

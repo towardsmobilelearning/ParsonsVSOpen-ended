@@ -1,0 +1,18 @@
+Time - Not Normal
+Scores - Not Normal
+UMUX - Approximately Normal, not significantly deviate from normality
+CMDQ - Not needed, as ordinal Likert values
+IL - Not Normal
+
+
+UMUX - Paired t-test - p < 0.001
+UMUX - Wilcoxon test - p < 0.001
+CMDQ - Wilcoxon test - Neck and wrist - p < 0.05
+CSCL - Wilcoxon test - p < 0.01
+Time - Wilcoxon test - p < 0.001
+Score - Wilcoxon test - p < 0.001
+
+
+Parsons problems are faster
+Parsons times show variation in time
+Open-ended took around 30 min. for all participants
