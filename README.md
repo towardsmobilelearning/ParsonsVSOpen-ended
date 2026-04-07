@@ -1,6 +1,6 @@
 # Towards Mobile Learning: The Tradeoffs of Practicing via Parsons Problem VS Open-ended Programming Exercises
 
-This repository contains the data used to calculate metrics, generate figures, and analyze statistical relationships between variables in the study "Fill-in-the-blank vs Real Programming: A Comparative Analysis to Find Best Approach to Learn Programming."
+This repository contains the data used to calculate metrics, generate figures, and analyze statistical relationships between variables in the study "Parsons Problem vs Open-ended Programming: A Comparative Analysis to Find Best Approach to Learn Programming."
 
 The dataset directory contains all the necessary data used in the paper.
 
