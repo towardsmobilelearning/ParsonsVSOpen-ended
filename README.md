@@ -10,4 +10,4 @@ Python code files contains all the necessary code we needed to formulate the dat
 
 The figure below illustrates the structure of our project.
 
-![Structure](structure.png)
+![Structure](structure.pdf)
